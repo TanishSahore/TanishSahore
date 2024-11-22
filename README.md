@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanishSahore
 - 👀 I’m interested in Drawing
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently persuing CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanishsahore10@gmail.com
 - 😄 Pronouns: ...
