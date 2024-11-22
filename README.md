@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TanishSahore
-- 👀 I’m interested in Drawing
-- 🌱 I’m currently persuing CSE
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently persuing B-tech CSE
+- 🧑‍🎓 Become a professional Engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanishsahore10@gmail.com
 - 😄 Pronouns: ...
